@@ -1,18 +1,5 @@
 # 9ssuu
 
-## 📖 Overview
-
-**9ssuu** is a [brief description of your project: e.g., "web application", "tool", "library", etc.].  
-This project aims to [state the goal or purpose, e.g., "help users analyse data", "provide an interactive dashboard", etc.].
-
-## 🚀 Features
-
-- [Feature 1: e.g., Interactive user interface]
-- [Feature 2: e.g., Real-time data visualisation]
-- [Feature 3: e.g., Export results as CSV]
-- [Feature 4: e.g., Responsive design for mobile and desktop]
-- [Add more features...]
-
 ## 🛠️ Technologies Used
 
   - HTML5
