@@ -11,19 +11,9 @@
 ```bash
 # Clone the repository
 git clone https://github.com/nimalan-parameswaran/9ssuu.git
-
-# Navigate to the project folder
-cd 9ssuu
-
-# [Install dependencies as required, e.g.:]
-npm install        # if using Node.js
-# or
-pip install -r requirements.txt  # if using Python
 ```
 
 ## ▶️ Usage
-
-[Describe how to run or use the project. For example:]
 
 - Open `index.html` in your browser  
 
